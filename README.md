@@ -21,7 +21,7 @@ You don't need Node.js or npm installed locally — everything runs inside Docke
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/vue3-vite-docker-kit.git
+git clone https://github.com/oleh7gh/vue3-vite-docker-kit.git
 cd vue3-vite-docker-kit
 ```
 
